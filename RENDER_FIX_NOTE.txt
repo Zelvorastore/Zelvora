@@ -1,0 +1,4 @@
+IMPORTANT: Upload the CONTENTS of this folder to the ROOT of the GitHub repository Zelvora.
+Do NOT upload this ZIP itself as the only file.
+Render Build Command: npm install
+Render Start Command: npm start
